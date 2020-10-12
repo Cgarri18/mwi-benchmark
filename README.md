@@ -23,8 +23,7 @@ christiangarrison18@gmail.com
 
 ### Code Test
 
-Overall I had fun with the simple layout and design of the mockup 
-although I did experience a few hickups, they were fun to debug and learned from them.
-My expiernce with JS and PHP are close to none which is why I only have place holders for them included.
+Overall I had fun with the simple layout and design of the mockup, but I did experience a few hickups and they were fun to debug and learn from.
+My expiernce with JS and PHP are close to none which is why I only have place holders for them included for the time being.
 
 ---
