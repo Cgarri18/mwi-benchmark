@@ -1,1 +1,1 @@
-Empty Place Holder For JavaScript
+Empty place holder for JavaScript
