@@ -23,6 +23,8 @@ christiangarrison18@gmail.com
 
 ### Code Test
 
-Any details you'd like to mention about your code test.
+Overall I had fun with the simple layout and design of the mockup 
+although I did experience a few hickups, they were fun to debug and learned from them.
+My expiernce with JS and PHP are close to none which is why I only have place holders for them included.
 
 ---
