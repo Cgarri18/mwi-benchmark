@@ -1,9 +1,9 @@
 # Submission
 
 ### Contact Information
-- John Doe
-- (###) ### - ####
-- email@email.com
+- Christian Garrison 
+- (417) 793 - 7675
+- christiangarrison18@gmail.com
 
 ---
 
@@ -15,7 +15,7 @@ Personality Result - #
 
 ### Communication
 
-Beautifully crafted email goes here.
+christiangarrison18@gmail.com
 
 ### Code Test
 
